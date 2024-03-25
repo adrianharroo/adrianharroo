@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I'm Adrian
 
-<!--
-**adrianharroo/adrianharroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### An aerospace engineer transitioning to a career in tech with a focus on Software Development. I enjoy bringing ideas to life with clean and efficient code.
+- 🔭 I’m currently working on a full-stack web development bootcamp from CoGrammar. 
+- 🌱 I’m currently learning React.
 
-Here are some ideas to get you started:
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Periodic Table](https://github.com/adrianharroo/periodic-table)
