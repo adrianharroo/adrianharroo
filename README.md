@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Adrian
 
-### An aerospace engineer transitioning to a career in tech with a focus on Software Development. I enjoy bringing ideas to life with clean and efficient code.
+#### An Aerospace Engineer transitioning to a career in tech with a focus on Software Development. I enjoy bringing ideas to life with clean and efficient code.
 - 🔭 I’m currently working on a full-stack web development bootcamp from CoGrammar. 
 - 🌱 I’m currently learning React.
 
